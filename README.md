@@ -31,7 +31,7 @@ It demonstrates a **complete workflow** from data preprocessing to model deploym
 ---
 
 ## 📂 Project Structure
-
+``` bash
 Heart_Disease_Project/
 │── data/
 │ ├── heart_disease.csv
@@ -56,7 +56,7 @@ Heart_Disease_Project/
 │── README.md
 │── requirements.txt
 │── .gitignore
-
+```
 
 ---
 
@@ -64,8 +64,8 @@ Heart_Disease_Project/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/abdoashraf952/heart-disease-ml-pipeline.git
-cd heart-disease-ml-pipeline
+git clone https://github.com/abdoashraf952/Heart_Disease_Project.git
+cd Heart_Disease_Project
 ```
 ### 2️⃣ Install dependencies
 

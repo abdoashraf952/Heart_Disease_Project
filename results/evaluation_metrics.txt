@@ -1,0 +1,33 @@
+Logistic Regression:
+        Accuracy : 88.33%,
+        Precision: 86.96%,
+        Recall: 83.33%,
+        F1-Score: 85.11%,
+        AUC: 95.49%
+    
+
+
+ Decision Tree :
+        Accuracy : 73.33%,
+        Precision: 65.38%,
+        Recall: 70.83%,
+        F1-Score: 68.00%,
+        AUC: 72.92%
+    
+
+
+ Random Forest  :
+        Accuracy : 85.00%,
+        Precision: 80.00%,
+        Recall: 83.33%,
+        F1-Score: 81.63%,
+        AUC: 94.68%
+    
+
+
+ Support Vector Machine (SVM) :
+        Accuracy : 88.33%,
+        Precision: 86.96%,
+        Recall: 83.33%,
+        F1-Score: 85.11%,
+        AUC: 94.04%

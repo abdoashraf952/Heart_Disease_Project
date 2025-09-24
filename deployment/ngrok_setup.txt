@@ -1,0 +1,8 @@
+1) Install Ngrok (Pyngrok) in python --> pip install pyngrok
+2) signup  in Ngrok website
+3) Get your free Ngrok Auth Token from  this link https://dashboard.ngrok.com/get-started/your-authtoken
+4) Add your auth token to your ngrok config (only once) in terminal 
+5) run streamlit  UI --> streamlit run app.py
+6) host Ngrok --> ngrok http 8501(you port from streamlit link)
+7) you will find URL after Forwarding (eg. https://abc123.ngrok-free.app -> http://localhost:8501 )
+
